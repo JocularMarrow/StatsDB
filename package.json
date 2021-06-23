@@ -1,0 +1,22 @@
+{
+  "name": "statsdb",
+  "version": "1.0.0",
+  "description": "Official npm package for StatsDB API",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JocularMarrow/StatsDB.git"
+  },
+  "author": "JocularMarrow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JocularMarrow/StatsDB/issues"
+  },
+  "homepage": "https://github.com/JocularMarrow/StatsDB#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
