@@ -1,11 +1,8 @@
 {
   "name": "statsdb",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Official npm package for StatsDB API",
-  "main": "main.js",
-  "scripts": {
-    "start": "nodemon src/main.js"
-  },
+  "main": "src/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JocularMarrow/StatsDB.git"
